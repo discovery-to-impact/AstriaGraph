@@ -1,6 +1,12 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FAstriaGraph.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FAstriaGraph?ref=badge_shield)
+
 This folder contains the source code for the AstriaGraph web
 interface. The folder structure is follows.
 
 .      : Browser startup page, JavaScript source code, and JQuery.
 cesium : Cesium widgets, source files, and resources.
 images : Astria logo and JQuery images.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FAstriaGraph.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FAstriaGraph?ref=badge_large)
